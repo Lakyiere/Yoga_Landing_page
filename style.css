@@ -1,0 +1,13 @@
+.navbar{
+    background: #3D3D3D;
+}
+.login{
+    padding-right: 2rem;
+    padding-top: 1rem;
+}
+.div-button{
+    background: #908484;
+    border-style: none;
+    border-radius: 15px;
+    
+}
