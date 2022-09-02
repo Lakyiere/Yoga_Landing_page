@@ -11,3 +11,42 @@
     border-radius: 15px;
     
 }
+.home-banner{
+    background: #3D3D3D;
+}
+.imgbng{
+    width: 450px;
+    height: 480px;
+   
+}
+.para1{
+    font-weight: 400;
+font-size: 53px;
+line-height: 146.52%;
+
+letter-spacing: 0.13em;
+padding-left: 2rem;
+color: #FFFFFF;
+}
+.para2{
+    font-size: 20px;
+    line-height: 130.52%;
+    color: #FFFFFF;
+    letter-spacing: 0.03em;
+    padding-top: 2rem;
+    padding-left: 2rem;
+}
+.homebtn{
+    background: radial-gradient(164.22% 6353.96% at 134.83% 15.18%, #BB7249 0%, rgba(171, 105, 44, 0.543403) 56.46%, rgba(255, 108, 25, 0) 100%);
+    border-style: none;
+    color: #FFFFFF;
+    border-radius: 10px;
+padding: 0.5rem;
+}
+.btn2{
+    padding-top: 2rem;
+    padding-left: 2rem;
+}
+/* .firsthalf{
+    padding-top: 3rem;
+} */
