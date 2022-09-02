@@ -15,8 +15,8 @@
     background: #3D3D3D;
 }
 .imgbng{
-    width: 450px;
-    height: 480px;
+    width: 500px;
+    height: 530px;
    
 }
 .para1{
@@ -50,3 +50,7 @@ padding: 0.5rem;
 /* .firsthalf{
     padding-top: 3rem;
 } */
+/* for mobile screens */
+@media screen and (max-width: 800px){
+    
+}
