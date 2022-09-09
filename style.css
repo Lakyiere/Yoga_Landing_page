@@ -13,6 +13,7 @@
 }
 .home-banner{
     background: #3D3D3D;
+    padding-top: 5rem;
 }
 .imgbng{
     width: 500px;
@@ -50,7 +51,29 @@ padding: 0.5rem;
 .firsthalf{
     padding-top: 3rem;
 }
-/* for mobile screens
-/* @media screen and (max-width: 800px){
-    
-} */
+/* /* for mobile screens */
+@media screen and (max-width: 800px){
+    .home-banner{
+        padding-top: 2rem;
+    }
+   .firsthalf{
+    padding-top: 1rem;
+    padding-inline: 1rem;
+    line-height: normal;
+   } 
+   .bngimg{
+    padding-top: 2rem;
+    padding-left: 2rem;
+   }
+   .para1{
+    font-size: 35px;
+    padding-inline: 0.3rem;
+   }
+   .para2{
+    font-size: 16px;
+    padding-inline: 0.3rem;
+   }
+   .btn2{
+    padding-inline: 0.3rem;
+   }
+}
