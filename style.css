@@ -11,7 +11,7 @@
     border-radius: 15px;
     
 }
-/* .home-banner{
+.home-banner{
     background: #3D3D3D;
 }
 .imgbng{
@@ -47,10 +47,10 @@ padding: 0.5rem;
     padding-top: 2rem;
     padding-left: 2rem;
 } */
-/* .firsthalf{
+.firsthalf{
     padding-top: 3rem;
-} */
-/* for mobile screens */
+}
+/* for mobile screens
 /* @media screen and (max-width: 800px){
     
 } */
