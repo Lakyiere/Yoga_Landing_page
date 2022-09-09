@@ -1,79 +1,82 @@
-.navbar{
-    background: #3D3D3D;
+.navbar {
+  background: #3d3d3d;
 }
-.login{
-    padding-right: 2rem;
-    padding-top: 1rem;
+.login {
+  padding-right: 2rem;
+  padding-top: 1rem;
 }
-.div-button{
-    background: #908484;
-    border-style: none;
-    border-radius: 15px;
-    
+.div-button {
+  background: #908484;
+  border-style: none;
+  border-radius: 15px;
 }
-.home-banner{
-    background: #3D3D3D;
-    padding-top: 5rem;
+.home-banner {
+  background: #3d3d3d;
+  padding-top: 5rem;
 }
-.imgbng{
-    width: 500px;
-    height: 530px;
-   
+.imgbng {
+  width: 500px;
+  height: 530px;
 }
-.para1{
-    font-weight: 400;
-font-size: 53px;
-line-height: 146.52%;
+.para1 {
+  font-weight: 400;
+  font-size: 53px;
+  line-height: 146.52%;
 
-letter-spacing: 0.13em;
-padding-left: 2rem;
-color: #FFFFFF;
+  letter-spacing: 0.13em;
+  padding-left: 2rem;
+  color: #ffffff;
 }
-.para2{
-    font-size: 20px;
-    line-height: 130.52%;
-    color: #FFFFFF;
-    letter-spacing: 0.03em;
-    padding-top: 2rem;
-    padding-left: 2rem;
+.para2 {
+  font-size: 20px;
+  line-height: 130.52%;
+  color: #ffffff;
+  letter-spacing: 0.03em;
+  padding-top: 2rem;
+  padding-left: 2rem;
 }
-.homebtn{
-    background: radial-gradient(164.22% 6353.96% at 134.83% 15.18%, #BB7249 0%, rgba(171, 105, 44, 0.543403) 56.46%, rgba(255, 108, 25, 0) 100%);
-    border-style: none;
-    color: #FFFFFF;
-    border-radius: 10px;
-padding: 0.5rem;
+.homebtn {
+  background: radial-gradient(
+    164.22% 6353.96% at 134.83% 15.18%,
+    #bb7249 0%,
+    rgba(171, 105, 44, 0.543403) 56.46%,
+    rgba(255, 108, 25, 0) 100%
+  );
+  border-style: none;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 0.5rem;
 }
-.btn2{
-    padding-top: 2rem;
-    padding-left: 2rem;
-} */
-.firsthalf{
-    padding-top: 3rem;
+.btn2 {
+  padding-top: 2rem;
+  padding-left: 2rem;
+}
+*/ .firsthalf {
+  padding-top: 3rem;
 }
 /* /* for mobile screens */
-@media screen and (max-width: 800px){
-    .home-banner{
-        padding-top: 2rem;
-    }
-   .firsthalf{
+@media screen and (max-width: 800px) {
+  .home-banner {
+    padding-top: 2rem;
+  }
+  .firsthalf {
     padding-top: 1rem;
     padding-inline: 1rem;
     line-height: normal;
-   } 
-   .bngimg{
+  }
+  .bngimg {
     padding-top: 2rem;
     padding-left: 2rem;
-   }
-   .para1{
+  }
+  .para1 {
     font-size: 35px;
     padding-inline: 0.3rem;
-   }
-   .para2{
+  }
+  .para2 {
     font-size: 16px;
     padding-inline: 0.3rem;
-   }
-   .btn2{
+  }
+  .btn2 {
     padding-inline: 0.3rem;
-   }
+  }
 }
