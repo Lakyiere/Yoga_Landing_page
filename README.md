@@ -4,7 +4,7 @@ This is a repo of a Yoga Landing page where I made it responsive with Bootstrap 
 
 # The UI
 
-![Screenshot (224)](https://user-images.githubusercontent.com/70054440/189458870-45edb3e9-9f52-4b45-8178-b8687bd95b15.png)
+![Screenshot (251)](https://user-images.githubusercontent.com/70054440/196064547-47b23615-cb6f-4213-a1c7-dab93e73abca.png)
 
 # The Responsive UI
 
